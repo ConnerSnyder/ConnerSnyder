@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- 👋 Welcome Banner -->
+<h1 align="center">Hey there, I’m **Conner Snyder** 👋</h1>
+<p align="center">
+  A passionate **Computer Scientist **Tech & Creativity**
+</p>
 
-<!--
-**ConnerSnyder/ConnerSnyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 About Me
+- 🛠 I build stuff in: *Python, JavaScript, Java, HTML, C#/C++*  
+- 🌱 Currently diving into: *WebAssembly, Machine Learning, Cloud Infrastructure*  
+- 💡 I love working on: *programs that can speed up your video game progression*  
+- 📫 Reach me: **Snyder.337@wright.edu** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Featured Projects
+
+| **Candy Prices** | A program that tracks the prices of Mike n Ike's across America
+| **Spirograph Generator** | A program that includes javascript and HTML that creates spirographs!
+
+You can also link your repos dynamically, or highlight ones with the most stars or forks.
+
+---
+
+## 🧰 Skills & Tools
+
+```text
+Languages:  Javascript, HTML, Python, C#
